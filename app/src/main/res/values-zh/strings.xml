@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App2</string>
+    <string name="team1">Team A</string>
+    <string name="team2">Team B</string>
+    <string name="button1">+3 points</string>
+    <string name="button2">+2 points</string>
+    <string name="button3">FREE THROW</string>
+    <string name="button4">+3 points</string>
+    <string name="button5">+2 points</string>
+    <string name="button6">FREE THROW</string>
+    <string name="reset">reset</string>
+    <string name="grade">0</string>
+    <string name="grade2">0</string>
+</resources>
